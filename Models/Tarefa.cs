@@ -6,4 +6,5 @@ public class Tarefa
     public string Titulo { get; set; } = string.Empty;
     public string Descricao { get; set; } = string.Empty;
     public bool Concluida { get; set; } = false;
+    public DateTime CriadaEm { get; set; } = DateTime.Now;
 }

@@ -31,3 +31,4 @@ C:\Users\Pichau\Desktop\TarefasApi\TarefasApi\obj\Debug\net10.0\refint\TarefasAp
 C:\Users\Pichau\Desktop\TarefasApi\TarefasApi\obj\Debug\net10.0\TarefasApi.pdb
 C:\Users\Pichau\Desktop\TarefasApi\TarefasApi\obj\Debug\net10.0\TarefasApi.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\TarefasApi\TarefasApi\obj\Debug\net10.0\ref\TarefasApi.dll
+C:\Users\Pichau\Desktop\TarefasApi\TarefasApi\obj\Debug\net10.0\TarefasApi.sourcelink.json
